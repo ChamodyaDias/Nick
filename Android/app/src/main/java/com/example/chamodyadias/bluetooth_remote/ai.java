@@ -62,7 +62,7 @@ public class ai extends AppCompatActivity implements AIListener {
             makerequest();
         }
 
-        final AIConfiguration config = new AIConfiguration("07c0c43301fa411c8fefa33a7377e3d9",
+        final AIConfiguration config = new AIConfiguration("<<Your Dialog Flow Client Access Token>>",
                 AIConfiguration.SupportedLanguages.English,
                 AIConfiguration.RecognitionEngine.System);
 
