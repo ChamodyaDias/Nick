@@ -27,7 +27,7 @@ Check this out!
 https://youtu.be/wdCAbxWPeLI
 
 # Like to "Do It Yourself"?
-Well there are a lot of configuration and things to make. I'll help you. Just drop me a message! chamodyadias218@gmail.com
+Well there are a lot of configuration and things to make. I'll help you. Just drop me a message! chamodyadias218@gmail.com | ndhpeiris@gmail.com
 
 Nick is make of ;)
 1) Android App - (a mobile phone with internet connection + front camera preferably)
